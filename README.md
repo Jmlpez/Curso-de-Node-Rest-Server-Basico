@@ -1,1 +1,3 @@
-# Curso-de-Node-Rest-Server-Basico
+# WebServer + RestServer
+
+Ejecutra `npm install` para reconstruir los modulos de Node.
